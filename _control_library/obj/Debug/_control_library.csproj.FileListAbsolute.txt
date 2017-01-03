@@ -1,0 +1,6 @@
+D:\Documents\Vs Projects\_control_library\_control_library\bin\Debug\_control_library.exe.config
+D:\Documents\Vs Projects\_control_library\_control_library\bin\Debug\_control_library.exe
+D:\Documents\Vs Projects\_control_library\_control_library\bin\Debug\_control_library.pdb
+D:\Documents\Vs Projects\_control_library\_control_library\obj\Debug\_control_library.csprojResolveAssemblyReference.cache
+D:\Documents\Vs Projects\_control_library\_control_library\obj\Debug\_control_library.exe
+D:\Documents\Vs Projects\_control_library\_control_library\obj\Debug\_control_library.pdb
